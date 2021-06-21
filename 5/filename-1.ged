@@ -1,0 +1,16 @@
+0 HEAD
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE_LINKED
+1 FILE somename.ged
+0 @1@ OBJE
+1 FILE /unix/absolute
+1 FILE c:\windows\absolute
+1 FILE \\windows\server
+1 FILE a/relative/path
+1 FILE a\relative\path
+1 FILE most/paths?get#escaped[like]this
+1 FILE spaces are fine/even with spashes ? and so on
+1 FILE https://leave.alone?with=args#and-frags
+1 FILE https:/not.a.url/even-though-similar
+0 TRLR

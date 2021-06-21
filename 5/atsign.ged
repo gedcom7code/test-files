@@ -1,0 +1,27 @@
+0 HEAD
+1 CHAR UTF-8
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE_LINKED
+0 NOTE @ one leading
+0 NOTE @one leading no space
+0 NOTE @@ two leading
+0 NOTE @@two leading no space
+0 NOTE doubled @@ internal
+0 NOTE doubled@@internal no space
+0 NOTE single @ internal
+0 NOTE single@internal no space
+0 NOTE @#DJULIAN@date escape zero spaces
+0 NOTE @#DJULIAN@ date escape one space
+0 NOTE @#DJULIAN@  date escape two spaces
+0 NOTE non-leading @#DJULIAN@ date escape
+0 NOTE @#DJULIAN AND SUCH@ date escape internal spaces
+0 NOTE obsolete @#OLD FORM@ escape, spaces both sides
+0 NOTE obsolete@#OLD FORM@ escape, space after
+0 NOTE obsolete@#OLD FORM@  escape, double space after
+0 NOTE obsolete @#OLD FORM@escape, space before
+0 NOTE @@all in @one@@thing @#DWITH DATES@ , @#OBSOLETE@ etc
+0 NOTE @@ at at front and 
+1 CONC @@ at after CONC and 
+1 CONT @@ at after CONT and @ inside CONT too.
+0 TRLR

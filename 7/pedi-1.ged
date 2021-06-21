@@ -1,0 +1,10 @@
+﻿0 HEAD
+1 GEDC
+2 VERS 7.0
+1 NOTE Test for bug identified by Diedrich
+0 @1@ INDI
+1 FAMC @2@
+2 PEDI BIRTH
+0 @2@ FAM
+1 CHIL @1@
+0 TRLR

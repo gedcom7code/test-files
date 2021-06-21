@@ -1,0 +1,24 @@
+﻿0 HEAD
+1 GEDC
+2 VERS 7.0
+0 SNOTE @@ one leading
+0 SNOTE @@one leading no space
+0 SNOTE @@ two leading
+0 SNOTE @@two leading no space
+0 SNOTE doubled @ internal
+0 SNOTE doubled@internal no space
+0 SNOTE single @ internal
+0 SNOTE single@internal no space
+0 SNOTE JULIAN date escape zero spaces
+0 SNOTE JULIAN date escape one space
+0 SNOTE JULIAN  date escape two spaces
+0 SNOTE non-leading JULIAN date escape
+0 SNOTE JULIAN_AND_SUCH date escape internal spaces
+0 SNOTE obsolete escape, spaces both sides
+0 SNOTE obsoleteescape, space after
+0 SNOTE obsolete escape, double space after
+0 SNOTE obsolete escape, space before
+0 SNOTE @@all in @one@thing WITH_DATES , etc
+0 SNOTE @@ at at front and @ at after CONC and 
+1 CONT @@ at after CONT and @ inside CONT too.
+0 TRLR
