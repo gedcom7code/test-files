@@ -26,7 +26,7 @@
 1 LANG my
 1 LANG yue
 1 LANG ca
-1 LANG ca-es
+1 LANG ca-ES
 1 LANG cu
 1 LANG cs
 1 LANG da
@@ -43,7 +43,7 @@
 1 LANG el
 1 LANG gu
 1 LANG haw
-1 LANG be
+1 LANG he
 1 LANG hi
 1 LANG hu
 1 LANG is
@@ -105,8 +105,8 @@
 1 LANG und
 2 _PHRASE hangul
 1 LANG und
-2 _PHRASE romanji
+2 _PHRASE romaji
 0 @4@ _LANGUAGE_NOT_IN_551
 1 LANG und
-2 _PHRASE hmong
+2 _PHRASE Hmong
 0 TRLR
