@@ -16,9 +16,9 @@
 1 TYPE Example
 1 NAME New York
 2 TYPE City
-0 @1@ SUBM
+0 @4@ SUBM
 1 NAME Luther Tychonievich
-0 @2@ INDI
+0 @5@ INDI
 1 _MAYBE
 2 NAME /Family/ Personal
 3 TYPE Official
