@@ -4,7 +4,7 @@
 0 @1@ OBJE
 1 FILE file:///unix/absolute
 2 FORM image/bmp
-1 FILE c%3a/windows/absolute
+1 FILE file:///c:/windows/absolute
 2 FORM image/bmp
 1 FILE file://windows/server
 2 FORM image/bmp
