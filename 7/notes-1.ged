@@ -13,9 +13,11 @@
 1 SNOTE @4@
 1 SNOTE @5@
 0 @3@ SNOTE A single-use note record
-1 CHAN 25 MAY 2021
+1 CHAN
+2 DATE 25 MAY 2021
 0 @4@ SNOTE A dual-use note record
-1 CHAN 25 MAY 2021
+1 CHAN
+2 DATE 25 MAY 2021
 0 @5@ SNOTE A cyclic note record
 1 SOUR @2@
 0 TRLR

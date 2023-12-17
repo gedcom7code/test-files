@@ -41,6 +41,7 @@
 1 AUTH Luther's imagination
 1 TITL Example birth and christening source
 1 TEXT Dana Doe was born at the Unix epoch to Mr and Mrs John Doe
-1 CHAN 18 JUN 2021
+1 CHAN
+2 DATE 18 JUN 2021
 1 NOTE A note in the source record too
 0 TRLR
