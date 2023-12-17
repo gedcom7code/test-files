@@ -3,12 +3,19 @@
 2 VERS 7.0
 0 @1@ OBJE
 1 FILE file:///unix/absolute
-1 FILE c%3a/windows/absolute
+2 FORM image/bmp
+1 FILE file:///c:/windows/absolute
+2 FORM image/bmp
 1 FILE file://windows/server
+2 FORM image/bmp
 1 FILE a/relative/path
+2 FORM image/bmp
 1 FILE a/relative/path
+2 FORM image/bmp
 1 FILE most/paths%3Fget%23escaped%5Blike%5Dthis
-1 FILE spaces are fine/even with spashes %3F and so on
+2 FORM image/bmp
 1 FILE https://leave.alone?with=args#and-frags
+2 FORM image/bmp
 1 FILE https%3a/not.a.url/even-though-similar
+2 FORM image/bmp
 0 TRLR
