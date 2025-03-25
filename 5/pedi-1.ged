@@ -2,7 +2,7 @@
 1 CHAR UTF-8
 1 GEDC
 2 VERS 5.5.1
-2 FORM LINEAGE_LINKED
+2 FORM LINEAGE-LINKED
 1 NOTE Test for bug identified by Diedrich
 0 @1@ INDI
 1 FAMC @2@

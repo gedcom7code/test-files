@@ -2,7 +2,7 @@
 1 CHAR UTF-8
 1 GEDC
 2 VERS 5.5.1
-2 FORM LINEAGE_LINKED
+2 FORM LINEAGE-LINKED
 0 @N01@ NOTE @ one leading
 0 @N02@ NOTE @one leading no space
 0 @N03@ NOTE @@ two leading

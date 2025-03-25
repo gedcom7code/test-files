@@ -1,7 +1,7 @@
 0 HEAD
 1 GEDC
 2 VERS 5.5.1
-2 FORM LINEAGE_LINKED
+2 FORM LINEAGE-LINKED
 1 FILE somename.ged
 0 @1@ OBJE
 1 FILE /unix/absolute
