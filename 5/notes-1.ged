@@ -15,9 +15,11 @@
 1 NOTE @4@
 1 NOTE @5@
 0 @3@ NOTE A single-use note record
-1 CHAN 25 MAY 2021
+1 CHAN
+2 DATE 25 MAY 2021
 0 @4@ NOTE A dual-use note record
-1 CHAN 25 MAY 2021
+1 CHAN
+2 DATE 25 MAY 2021
 0 @5@ NOTE A cyclic note record
 1 SOUR @2@
 0 TRLR
