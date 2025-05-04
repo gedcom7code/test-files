@@ -2,6 +2,9 @@
 1 GEDC
 2 VERS 7.0
 1 NOTE Test for bug identified by Diedrich
+1 SUBM @S1@
+0 @S1@ SUBM
+1 NAME Luther Tychonievich
 0 @1@ INDI
 1 FAMC @2@
 2 PEDI BIRTH
