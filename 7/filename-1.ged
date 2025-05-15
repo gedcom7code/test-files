@@ -1,6 +1,9 @@
 ﻿0 HEAD
 1 GEDC
 2 VERS 7.0
+1 SUBM @S1@
+0 @S1@ SUBM
+1 NAME Luther Tychonievich
 0 @1@ OBJE
 1 FILE file:///unix/absolute
 2 FORM image/bmp
