@@ -8,8 +8,8 @@
 2 FORM jpg
 3 TYPE photo
 2 TITL Example Image File
-1 FILE example.mp3
-2 FORM mp3
+1 FILE example.wav
+2 FORM wav
 2 TITL Sound Clip
 1 NOTE note in OBJE record
 0 @2@ INDI

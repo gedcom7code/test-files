@@ -6,8 +6,8 @@
 2 FORM image/jpeg
 3 MEDI PHOTO
 2 TITL Example Image File
-1 FILE example.mp3
-2 FORM application/x-mp3
+1 FILE example.wav
+2 FORM audio/wav
 2 TITL Sound Clip
 1 NOTE note in OBJE record
 0 @X1@ OBJE
